@@ -1,0 +1,5 @@
+E:\Knight\Knight\bin\Debug\Knight.exe.config
+E:\Knight\Knight\bin\Debug\Knight.exe
+E:\Knight\Knight\bin\Debug\Knight.pdb
+E:\Knight\Knight\obj\Debug\Knight.exe
+E:\Knight\Knight\obj\Debug\Knight.pdb

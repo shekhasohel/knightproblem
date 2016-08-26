@@ -1,0 +1,5 @@
+E:\Knight\Knight\bin\Release\Knight.exe.config
+E:\Knight\Knight\bin\Release\Knight.exe
+E:\Knight\Knight\bin\Release\Knight.pdb
+E:\Knight\Knight\obj\Release\Knight.exe
+E:\Knight\Knight\obj\Release\Knight.pdb
